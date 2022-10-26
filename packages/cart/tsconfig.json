@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "allowJs": true,
+    "esModuleInterop": true,
+    "declaration": true,
+    "allowSyntheticDefaultImports": true
+  },
+  "exclude": ["**/*.spec.ts", "**/*.spec.tsx", "node_modules"],
+  "include": ["./src/**/*.ts"]
+  
+}

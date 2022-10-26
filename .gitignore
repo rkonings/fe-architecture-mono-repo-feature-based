@@ -1,0 +1,8 @@
+node_modules
+dist
+.idea
+
+.cache
+.env
+.next
+build

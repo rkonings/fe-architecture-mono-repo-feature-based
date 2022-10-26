@@ -1,0 +1,13 @@
+{
+  "name": "@rkonings/shared",
+  "version": "0.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "rm -rf dist && rollup --config"
+  },
+  "dependencies": {
+    "rollup": "^2.60.2",
+    "rollup-plugin-typescript2": "^0.31.1",
+    "tslib": "^2.3.1"
+  }
+}
